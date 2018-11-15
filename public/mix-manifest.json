@@ -1,0 +1,11 @@
+{
+    "/js/vendor.js": "/js/vendor.js",
+    "/js/projects-list.js": "/js/projects-list.js",
+    "/js/datatable.js": "/js/datatable.js",
+    "/js/dynamic-component.js": "/js/dynamic-component.js",
+    "/js/slot-demo.js": "/js/slot-demo.js",
+    "/js/input-binding.js": "/js/input-binding.js",
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/manifest.js": "/js/manifest.js"
+}
